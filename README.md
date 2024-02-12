@@ -1,4 +1,4 @@
-https://trisya.com/myimg/child/Website%20Design.gif
+<img src="https://trisya.com/myimg/child/Website%20Design.gif"/>
 <h1 align="center">Hi 👋, I'm Rushikesh Bhand</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img alt="coding" width="400" src="https://dresma.ai/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-1.gif">
