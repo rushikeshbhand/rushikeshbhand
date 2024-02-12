@@ -1,7 +1,9 @@
 <img src="https://trisya.com/myimg/child/Website%20Design.gif"/>
 <h1 align="center">Hi 👋, I'm Rushikesh Bhand</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img alt="coding" width="400" src="https://dresma.ai/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-1.gif">
+<p align="center">
+  <img alt="coding" width="400" src="https://dresma.ai/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-1.gif">
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushikeshbhand" alt="rushikeshbhand" /></a> </p>
 
