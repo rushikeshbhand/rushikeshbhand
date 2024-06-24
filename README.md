@@ -15,7 +15,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Food ordering web application](https://github.com/rushikeshbhand/inotebook-reactapp)
+- 🔭 I’m currently working on [Food ordering web application](https://food-ordering-webapplication-nextjs-frontend.vercel.app/)
 - 🌱 I’m currently learning **DSA, GSAP, THREE JS**
 - 👨‍💻 All of my projects are available at [https://rushikeshbhandportfolio.vercel.app/](https://rushikeshbhandportfolio.vercel.app/)
 - 📝 I regularly write articles on [https://rushikeshbhandportfolio.vercel.app/](https://rushikeshbhandportfolio.vercel.app/)
